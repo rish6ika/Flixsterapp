@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/aBk5WtR" width=250><br>
+<img src="flixsterfinal.gif" width=250><br>
 
 ### Notes
 
